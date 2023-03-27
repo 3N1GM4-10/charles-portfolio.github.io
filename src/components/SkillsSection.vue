@@ -22,7 +22,7 @@
             :icon="['fas', 'code']"
           />
           <div class="flex flex-col">
-            <h2 class="text-xl dark:text-white">Frontend Developer</h2>
+            <h2 class="text-xl dark:text-white">Frontend Development</h2>
             <!-- <span class="text-sm f-gray dark:text-white"
               >More than 4 years</span
             > -->
@@ -135,7 +135,7 @@
             :icon="['fas', 'code-branch']"
           />
           <div class="flex flex-col">
-            <h2 class="text-xl dark:text-white">Backend Developer</h2>
+            <h2 class="text-xl dark:text-white">Backend Development</h2>
             <!-- <span class="text-sm f-gray dark:text-white"
               >More than 2 years</span
             > -->
