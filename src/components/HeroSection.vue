@@ -25,8 +25,11 @@
         data-aos-delay="800"
         data-aos-duration="500"
       >
-      As a new front-end web developer, I am enthusiastic about learning and applying the latest technologies and techniques in web development. I have a strong foundation in HTML, CSS, and JavaScript, and I am continually expanding my knowledge through online courses and personal projects.
-
+        As a new front-end web developer, I am enthusiastic about learning and
+        applying the latest technologies and techniques in web development. I
+        have a strong foundation in HTML, CSS, and JavaScript, and I am
+        continually expanding my knowledge through online courses and personal
+        projects.
       </h5>
       <div data-aos="fade-right" data-aos-delay="800" data-aos-duration="700">
         <a
@@ -71,8 +74,6 @@
     </div>
   </div>
 </template>
-
-
 
 <script lang="ts" setup>
 // import { watch } from "vue";
