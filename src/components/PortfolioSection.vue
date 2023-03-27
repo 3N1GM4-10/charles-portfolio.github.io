@@ -52,8 +52,10 @@
                 <span class="green box"></span>
               </div>
             </div>
+
             <div class="card__content p-2 flex flex-col justify-between">
               <div class="flex flex-col gap-2">
+
                 <div class="project-img">
                   <img
                     :src="project.project_logo"
@@ -61,6 +63,7 @@
                     :class="`${project.class} thumbnail m-auto`"
                   />
                 </div>
+
                 <div class="title dark:text-white text-2xl font-semibold pt-2">
                   {{ project.name }}
                 </div>
@@ -126,64 +129,67 @@ export default {
     return {
       recent_projects: [
         {
-          name: "DSG | Prolook Customizer",
-          project_link: "https://prolookteam.com/",
-          project_logo: "https://prolookteam.com/images/svg/dsg-logo.svg",
-          description: "Superior Team Apparel",
+          name: "Munda Motorworks Center",
+          project_link: "https://munda-motorworks-center-github-og6p26d33-3n1gm4-10.vercel.app/index.html",
+          project_logo: "https://munda-motorworks-center-github-og6p26d33-3n1gm4-10.vercel.app/assets/images/munda-motorworks-edited.png",
+          description: "Motorworks Center static website",
           class: "dsg",
         },
         {
-          name: "Richardson Uniform Customizer",
-          project_link: "https://m2.richardsonsports.com/uniforms",
+          name: "Apex Estate",
+          project_link: "https://apex-estate.devph.space/?fbclid=IwAR2hw5j40Qt5Mq4-kQCBiiWZJTclKiJzVH7aQ5M10SadflfK5lkSD63-73Q",
           project_logo:
-            "https://m2.richardsonsports.com/pub/media/logo/stores/1/logo.gif",
-          description: "Superior Team Apparel",
+            "https://apex-estate.devph.space/static/media/yariga.2a85c5b0693b4b6db43a43a33c64554d.svg",
+          description: "Real-Estate Admin Dashboard",
           class: "richardson",
         },
-        {
-          name: "VWALA",
-          project_link: "https://www.vwa.la/#/",
-          project_logo:
-            "https://www.vwa.la/screen_db.847413f5fff532660865b7866e5e0564.png",
-          description: "Influencer marketing for Shopify",
-          class: "vwala",
-        },
+        // {
+        //   name: "VWALA",
+        //   project_link: "https://www.vwa.la/#/",
+        //   project_logo:
+        //     "https://www.vwa.la/screen_db.847413f5fff532660865b7866e5e0564.png",
+        //   description: "Influencer marketing for Shopify",
+        //   class: "vwala",
+        // },
 
-        {
-          name: "FundSpace",
-          project_link: "https://fundspace.ph/",
-          project_logo: "https://fundspace.ph/images/logo.svg",
-          description:
-            "FundSpace grants loans to businesses within one week of approval.",
-          class: "fundspace",
-        },
-        {
-          name: "Capitan PH",
-          project_link: "https://capitan.ph/",
-          project_logo: "https://capitan.ph/capitan-min.jpg",
-          description:
-            "Capitan helps SMEs grow through effective digital marketing solutions.",
-          class: "capitan",
-        },
-        {
-          name: "CMDI Learning and Development",
-          project_link:
-            "https://schoolmanagementsystem.cloud/cardtraining.center/",
-          project_logo:
-            "https://schoolmanagementsystem.cloud/cardtraining.center/assets/img/logo-card.png",
-          description:
-            "CMDI is a globally respected development institute that provides exceptional practitioner-led training and education services",
-          class: "cmdi",
-        },
-        {
-          name: "Business Monitoring System",
-          project_link:
-            "https://testapp.businessmonitoringsystem.cloud/bms-online",
-          project_logo:
-            "https://testapp.businessmonitoringsystem.cloud/img/logo-cloudbiz-bms.png",
-          description: "Application that monitors your business",
-          class: "bms",
-        },
+        // {
+        //   name: "FundSpace",
+        //   project_link: "https://fundspace.ph/",
+        //   project_logo: "https://fundspace.ph/images/logo.svg",
+        //   description:
+        //     "FundSpace grants loans to businesses within one week of approval.",
+        //   class: "fundspace",
+        // },
+
+        // {
+        //   name: "Capitan PH",
+        //   project_link: "https://capitan.ph/",
+        //   project_logo: "https://capitan.ph/capitan-min.jpg",
+        //   description:
+        //     "Capitan helps SMEs grow through effective digital marketing solutions.",
+        //   class: "capitan",
+        // },
+
+        // {
+        //   name: "CMDI Learning and Development",
+        //   project_link:
+        //     "https://schoolmanagementsystem.cloud/cardtraining.center/",
+        //   project_logo:
+        //     "https://schoolmanagementsystem.cloud/cardtraining.center/assets/img/logo-card.png",
+        //   description:
+        //     "CMDI is a globally respected development institute that provides exceptional practitioner-led training and education services",
+        //   class: "cmdi",
+        // },
+
+        // {
+        //   name: "Business Monitoring System",
+        //   project_link:
+        //     "https://testapp.businessmonitoringsystem.cloud/bms-online",
+        //   project_logo:
+        //     "https://testapp.businessmonitoringsystem.cloud/img/logo-cloudbiz-bms.png",
+        //   description: "Application that monitors your business",
+        //   class: "bms",
+        // },
       ],
     };
   },
@@ -300,7 +306,9 @@ export default {
   width: calc(100% - 0.6em);
 }
 
-.dsg,
+.dsg{
+  width: 60% !important;
+}
 .fundspace {
   width: 90% !important;
 }
@@ -337,4 +345,9 @@ export default {
 .card__content {
   height: 22rem;
 }
+
+/* .project-img{
+  width: 100px;
+  height: 100px;
+} */
 </style>
