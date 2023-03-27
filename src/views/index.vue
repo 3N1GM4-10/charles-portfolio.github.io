@@ -8,7 +8,7 @@ import Portfolio from "@/components/Portfolio.vue";
 import Footer from "@/components/Footer.vue";
 import ContactMe from "@/components/ContactMe.vue";
 
-import { ref, onMounted } from "@vue/runtime-dom";
+import { ref, onMounted } from "vue";
 import AOS from "aos";
 
 const loading = ref(true);

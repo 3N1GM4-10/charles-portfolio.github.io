@@ -73,7 +73,7 @@
   </div>
 </template>
 <script lang="ts" setup>
-import { watch } from "@vue/runtime-dom";
+import { watch } from "vue";
 import { useDark, useToggle } from "@vueuse/core";
 const isDark = useDark();
 </script>

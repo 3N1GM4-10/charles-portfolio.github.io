@@ -34,7 +34,7 @@
 </template>
 
 <script lang="ts" setup>
-import { ref } from "@vue/runtime-dom";
+import { ref } from "vue";
 import Work from "@/components/Work.vue";
 import Education from "@/components/Education.vue";
 
