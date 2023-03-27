@@ -1,5 +1,5 @@
 import { createRouter, createWebHistory } from "vue-router";
-import Portfolio from "../views/index.vue";
+import Portfolio from "../views/indexSection.vue";
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),

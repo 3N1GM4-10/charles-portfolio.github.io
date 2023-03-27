@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import Header from "@/components/Header.vue";
-import Hero from "@/components/Hero.vue";
+import Header from "@/components/HeaderSection.vue";
+import Hero from "@/components/HeroSection.vue";
 import AboutMe from "@/components/AboutMe.vue";
-import Skills from "@/components/Skills.vue";
-import Qualification from "@/components/Qualification.vue";
-import Portfolio from "@/components/Portfolio.vue";
-import Footer from "@/components/Footer.vue";
+import Skills from "@/components/SkillsSection.vue";
+import Qualification from "@/components/QualificationSection.vue";
+import Portfolio from "@/components/PortfolioSection.vue";
+import Footer from "@/components/FooterSection.vue";
 import ContactMe from "@/components/ContactMe.vue";
 
 import { ref, onMounted } from "vue";

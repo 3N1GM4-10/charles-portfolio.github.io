@@ -35,8 +35,8 @@
 
 <script lang="ts" setup>
 import { ref } from "vue";
-import Work from "@/components/Work.vue";
-import Education from "@/components/Education.vue";
+import Work from "@/components/WorkSection.vue";
+import Education from "@/components/EducationSection.vue";
 
 const active = ref("work");
 

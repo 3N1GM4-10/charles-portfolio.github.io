@@ -1,4 +1,4 @@
-// const { module } = require("webpack");
+/* eslint-env node */
 
 module.exports = {
   plugins: {

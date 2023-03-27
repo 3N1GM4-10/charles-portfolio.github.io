@@ -73,9 +73,9 @@
   </div>
 </template>
 <script lang="ts" setup>
-import { watch } from "vue";
-import { useDark, useToggle } from "@vueuse/core";
-const isDark = useDark();
+// import { watch } from "vue";
+// import { useDark } from "@vueuse/core";
+// const isDark = useDark();
 </script>
 <style lang="scss" scoped>
 .clipped {
