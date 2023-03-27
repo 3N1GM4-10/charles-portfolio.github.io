@@ -20,7 +20,7 @@
       >
         <img
           class="w-11/12 rounded-md drop-shadow-lg m-auto lg:m-0"
-          src="https://drive.google.com/uc?id=1yEpw7JEQ8xdE0bXUaYlPuKmQzcwB091_"
+          src="https://kinsta.com/wp-content/uploads/2021/11/front-end-developer-1200x675.png"
           alt=""
         />
       </div>
@@ -33,36 +33,36 @@
         <div
           class="cover-letter f-gray text-lg pb-7 dark:text-white text-center lg:text-left md:justify-center lg:justify-start"
         >
-          My interest in Computer Programming started back in 2011 when I decide
-          to check the elements on the browser — turns out that all the Elements
-          I see on the browser was HTML amd CSS!. Fast-forward today I'm now a
-          Frontend Developer with 4+ years work experience.
+        Hello, and thank you for visiting my portfolio! I am a recent graduate of a kodeGo Full Stack Web development bootcamp, where I gained hands-on experience in building web applications and honed my skills in HTML, CSS, and JavaScript.
+
+        I am excited to apply my skills to real-world projects and collaborate with other professionals in the industry. During my bootcamp, I worked on several group projects that required me to communicate effectively with my team members and problem-solve in a fast-paced environment.
+
         </div>
         <div
           class="summary-experience flex text-center justify-center lg:justify-start"
         >
-          <div class="years-exp mr-5 w-2/12">
+          <!-- <div class="years-exp mr-5 w-2/12">
             <h2 class="text-3xl f-dark-blue font-extrabold dark:text-blue-500">
               04+
             </h2>
             <span class="text-sm f-gray dark:text-white"
               >Years of Experience</span
             >
-          </div>
-          <div class="projects mr-5 w-2/12">
+          </div> -->
+          <!-- <div class="projects mr-5 w-2/12">
             <h2 class="text-3xl f-dark-blue font-extrabold dark:text-blue-500">
               10+
             </h2>
             <span class="text-sm f-gray dark:text-white"
               >Completed projects</span
             >
-          </div>
-          <div class="companies-worked mr-5 w-2/12">
+          </div> -->
+          <!-- <div class="companies-worked mr-5 w-2/12">
             <h2 class="text-3xl f-dark-blue font-extrabold dark:text-blue-500">
               4+
             </h2>
             <span class="text-sm f-gray dark:text-white">Companies Worked</span>
-          </div>
+          </div> -->
         </div>
         <div class="resume pt-10">
           <button class="btn-accent flex items-center m-auto lg:m-0">
