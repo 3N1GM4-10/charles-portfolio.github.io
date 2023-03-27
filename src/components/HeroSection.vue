@@ -9,7 +9,7 @@
         data-aos-duration="500"
         class="text-5xl pb-3 font-extrabold f-black name dark:text-white duration-1000"
       >
-        Emmanuel Santiago.
+        Charles Heculi.
       </h2>
       <h4
         class="text-lg pb-2 f-gray dark:text-white duration-1000"
@@ -17,7 +17,7 @@
         data-aos-delay="700"
         data-aos-duration="500"
       >
-        Fullstack Developer
+        Front End Developer
       </h4>
       <h5
         class="text-sm pb-12 f-gray dark:text-white duration-1000"
@@ -25,14 +25,13 @@
         data-aos-delay="800"
         data-aos-duration="500"
       >
-        I'm Experienced Front-end Developer with a demonstrated history of
-        working in the information technology and services industry. Highly
-        skilled in JavaScript(React/VueJS)
+      As a new front-end web developer, I am enthusiastic about learning and applying the latest technologies and techniques in web development. I have a strong foundation in HTML, CSS, and JavaScript, and I am continually expanding my knowledge through online courses and personal projects.
+
       </h5>
       <div data-aos="fade-right" data-aos-delay="800" data-aos-duration="700">
         <a
           class="btn-accent cursor-pointer flex items-center"
-          href="mailto:eman15santiago@gmail.com"
+          href="mailto:heculicharles25@gmail.com"
         >
           <span> Contact Me&nbsp;</span>
           <span
@@ -41,13 +40,13 @@
         </a>
       </div>
     </div>
-    <div class="profile-image lg:w-3/6 flex hidden md:flex md:m-auto md:pt-16">
+    <div class="profile-image lg:w-full flex hidden md:flex md:m-auto md:pt-16">
       <img
         data-aos="zoom-in-right"
         data-aos-delay="1500"
         data-aos-duration="800"
         :class="`m-auto clipped light ismall img-first md:w-auto`"
-        src="https://drive.google.com/uc?id=11n9y5dk7DRezKjtNondubZi9hRJR5haE"
+        src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t39.30808-6/308803395_3267481076873600_1295745097767619336_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=RW1ezygK3LUAX_gfFOW&_nc_ht=scontent.fmnl30-2.fna&oh=00_AfCWV0thnn93BIdyriVfmibvzr-7Ir8rv1dm4qqFeDeaHQ&oe=6422FDC9"
         alt=""
         width="400"
       />
@@ -56,7 +55,7 @@
         data-aos-delay="1700"
         data-aos-duration="800"
         class="m-auto clipped light imedium img-center md:w-auto"
-        src="https://drive.google.com/uc?id=11unOg9RI_DcEdTNc9J45XPAi_JfUQXtn"
+        src="https://scontent.fmnl30-1.fna.fbcdn.net/v/t39.30808-6/241995752_2989142441374133_2545252136887198036_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=QvLvAgGPi3IAX_7bRvW&_nc_ht=scontent.fmnl30-1.fna&oh=00_AfB722r26iWgU0SeuULZjzrAH6gBw44xWH576oiRh9b47g&oe=64221975"
         alt=""
         width="400"
       />
@@ -65,13 +64,16 @@
         data-aos-delay="1900"
         data-aos-duration="800"
         class="m-auto clipped light ismall img-last md:w-auto"
-        src="https://drive.google.com/uc?id=1efXKN_rVXqnqFgjismuQd6H3cOt2CzRx"
+        src="https://scontent.fmnl30-1.fna.fbcdn.net/v/t39.30808-6/270503483_3070795859875457_7087532706747568297_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=d9DrT11jwdUAX-4O0xA&_nc_ht=scontent.fmnl30-1.fna&oh=00_AfCYBxFzZ05m1U3SJt3pGxuZEwrRnkWHtj8_FfYwTNhugg&oe=642317B0"
         alt=""
         width="400"
       />
     </div>
   </div>
 </template>
+
+
+
 <script lang="ts" setup>
 // import { watch } from "vue";
 // import { useDark } from "@vueuse/core";
