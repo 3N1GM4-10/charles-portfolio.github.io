@@ -5,7 +5,7 @@
       href="https://github.com/inspect07/fe-ems-io"
       target="_blank"
     >
-      Designed & Built by Emmanuel Santiago
+      Charles Heculi | Front End Developer
     </a>
   </div>
 </template>
