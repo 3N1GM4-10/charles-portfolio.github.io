@@ -1,7 +1,7 @@
 <template>
   <div class="flex justify-between">
     <div class="font-semibold dark:text-cyan-500 duration-1000">
-      <a href="https://github.com/inspect07" target="_blank">&#64;Inspect07</a>
+      <a href="https://github.com/3N1GM4-10" target="_blank">&#64;3N1GM4-10</a>
     </div>
     <div class="flex space-x-2 items-center">
       <div :class="`mode ${isDark ? 'dark-mode' : ''}`" @click="mode">
