@@ -49,7 +49,7 @@
         data-aos-delay="1500"
         data-aos-duration="800"
         :class="`m-auto clipped light ismall img-first md:w-auto`"
-        src="https://scontent.fmnl30-2.fna.fbcdn.net/v/t39.30808-6/308803395_3267481076873600_1295745097767619336_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_ohc=HfjKq3MfLfEAX8C7JUu&_nc_ht=scontent.fmnl30-2.fna&oh=00_AfAAB_f2rocmCyTShgISFHwjWhpPd47Ao3UzzSM3JOwSbw&oe=643CB309"
+        src="../assets/img/profile-1.jpg"
         alt=""
         width="400"
       />
@@ -58,7 +58,7 @@
         data-aos-delay="1700"
         data-aos-duration="800"
         class="m-auto clipped light imedium img-center md:w-auto"
-        src="https://scontent.fmnl30-1.fna.fbcdn.net/v/t39.30808-6/241995752_2989142441374133_2545252136887198036_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=22iIHAqZeroAX_dBEot&_nc_ht=scontent.fmnl30-1.fna&oh=00_AfCCL3RLMB-apwFp2UmdMNrlzDXsVxzPiu04QjQ3I2pCrg&oe=643BCEB5"
+        src="../assets/img/profile-3.jpg"
         alt=""
         width="400"
       />
@@ -67,7 +67,7 @@
         data-aos-delay="1900"
         data-aos-duration="800"
         class="m-auto clipped light ismall img-last md:w-auto"
-        src="https://scontent.fmnl30-1.fna.fbcdn.net/v/t39.30808-6/270503483_3070795859875457_7087532706747568297_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=OA7_tPCsIagAX99tMFc&_nc_ht=scontent.fmnl30-1.fna&oh=00_AfCnTn3dW2fy9k00qHI9EPuZeFcnRUxM_WIBRTOPCZK_mw&oe=643CCCF0"
+        src="../assets/img/profile-2.jpg"
         alt=""
         width="400"
       />
